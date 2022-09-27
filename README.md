@@ -8,7 +8,7 @@ Hi, There 👋. I am Ilham from Indonesia, a final year SWE student. I do a full
 **Technologies :** Laravel, Flutter, React.js, Express.js, Git & Github, MongoDb, Bootsrap, Bash
 
 - 😄 Pronouns: He/Him 
-- 🔭 I’m currently working on my final year project (laravel + flutter) 
+- 🔭 I’m currently working heavily with node.js
 - 🌱 I’m currently learning Docker
 - 📫 How to reach me: ilham.mmr@gmail.com 
 - 👯 I’m looking to collaborate on open source
