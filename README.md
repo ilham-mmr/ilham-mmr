@@ -9,7 +9,7 @@ Hi, There 👋. I am Ilham from Indonesia, a final year SWE student. I do a full
 
 - 😄 Pronouns: He/Him 
 - 🔭 I’m currently working heavily with node.js
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning Kubernetes
 - 📫 How to reach me: ilham.mmr@gmail.com 
 - 👯 I’m looking to collaborate on open source
 - ⚡ Fun fact: I like teaching & have been an instructor for several tech workshops. 
