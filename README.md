@@ -1,6 +1,6 @@
 ## Ilham M.M.R. 😄
 
-Hi, There 👋. I am Ilham from Indonesia, a final year SWE student. I do a full-stack development. I really enjoy doing mobile, front-end and back-end development. I also like to challenge myself to practice on data structures and algorithms to sharpen more my computational skills.
+Hi, There 👋. I am Ilham from Indonesia. I do a full-stack development. I really enjoy doing mobile, front-end and back-end development. I also like to challenge myself to practice on data structures and algorithms to sharpen more my computational skills.
 
 
 **Programming Languages :** Java, Javascript, Dart, PHP, Python
