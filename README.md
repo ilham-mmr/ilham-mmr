@@ -3,9 +3,9 @@
 Hi, There 👋. I am Ilham from Indonesia. I do a full-stack development. I really enjoy doing mobile, front-end and back-end development. I also like to challenge myself to practice on data structures and algorithms to sharpen more my computational skills.
 
 
-**Programming Languages :** Java, Javascript, Dart, PHP, Python
+**Programming Languages :** ABAP, Java, Javascript, Dart, PHP, Python
 
-**Technologies :** Laravel, Flutter, React.js, Express.js, Git & Github, MongoDb, Bootsrap, Bash
+**Technologies :**SAP, Laravel, Flutter, React.js, Express.js, Git & Github, MongoDb, Bootsrap, Bash
 
 - 😄 Pronouns: He/Him 
 - 🔭 I’m currently working heavily with node.js
