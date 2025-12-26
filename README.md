@@ -5,7 +5,7 @@ Hi, There 👋. I am Ilham from Indonesia. I do a full-stack development. I real
 
 **Programming Languages :** ABAP, Java, Javascript, Dart, PHP, Python
 
-**Technologies :**SAP, Laravel, Flutter, React.js, Express.js, Git & Github, MongoDb, Bootsrap, Bash
+**Technologies :** SAP ABAP, Laravel, Flutter, React.js, Express.js, Git & Github, MongoDb, Bootsrap, Bash
 
 - 😄 Pronouns: He/Him 
 - 🔭 I’m currently working heavily with node.js
@@ -19,7 +19,4 @@ Hi, There 👋. I am Ilham from Indonesia. I do a full-stack development. I real
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilham-mmr&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=dracula&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ilham-mmr&show_icons=true&count_private=true&theme=dracula)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ilham-mmr&theme=dracula)  
 
